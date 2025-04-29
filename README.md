@@ -2,7 +2,7 @@
 - 👀 I’m interested in making projects in HTML (and CSS) and python
 - 📫 How to reach me dm me on discord (bravestcheetah)
 - 😄 Pronouns: He/Him
-- ⚡ bravestcheetah.pages.dev / cheetahweb.pages.dev and soon bravestcheetah.xyz !
+- ⚡ bravestcheetah.xyz !
 
 <!---
 BravestCheetah/BravestCheetah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
