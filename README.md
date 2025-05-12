@@ -4,7 +4,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ bravestcheetah.xyz !
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BravestCheetah&theme=github_dark)
+![BravestCheetah](https://github-readme-stats.vercel.app/api?username=BravestCheetah&show_icons=true&theme=github_dark)
+
+![BravestCheetah](https://github-readme-stats.vercel.app/api/top-langs?username=BravestCheetah&show_icons=true&theme=github_dark&layout=compact)
 
 
 <!---
