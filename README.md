@@ -2,6 +2,8 @@
 
 **Hi, im Cheetah 👋**
   <br>
+  11 Public Repos<br>
+  21 Total
   <ul>
     <li>Now part of <a href="https://chjk.xyz">ChickenJockey Studios</a>🎉!</li>
     <li>I do coding 💻</li>
