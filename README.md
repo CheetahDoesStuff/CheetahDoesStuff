@@ -3,9 +3,19 @@
 **Hi, im Cheetah 👋**
   <br>
   <ul>
+    <li>Now part of <a href="chjk.xyz">ChickenJockey Studios</a>!</li>
     <li>I do coding 💻</li>
     <li>I do speedrunning 💨</li>
     <li>I do youtube (occasionally) 📺</li>
+  </ul>
+  I know
+  <ul>
+    <li>Python</li>
+    <li>Skript</li>
+    <li>HTML & CSS & JS</li>
+    <li>Gurted HTML/CSS/Luau Syntax</li>
+    <li>Roblox's Luau version</li>
+    <li>learning C#</li>
   </ul>
   
   Wanna learn more about me or come in contact?
