@@ -10,12 +10,12 @@
   </ul>
   I know
   <ul>
-    <li>Python</li>
-    <li>Skript</li>
-    <li>HTML & CSS & JS</li>
-    <li>Gurted HTML/CSS/Luau Syntax</li>
-    <li>Roblox's Luau version</li>
-    <li>learning C#</li>
+    <li>Python 🐍</li>
+    <li>Skript ⛏️</li>
+    <li>HTML & CSS & JS 🌐</li>
+    <li>Gurted HTML/CSS/Luau Syntax 🌐</li>
+    <li>Roblox's Luau version 🟦</li>
+    <li>learning C# 🟪</li>
   </ul>
   
   Wanna learn more about me or come in contact?
