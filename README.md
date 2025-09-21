@@ -5,7 +5,7 @@
   11 Public Repos<br>
   21 Total
   <ul>
-    <li>Now part of <a href="https://chjk.xyz">ChickenJockey Studios</a>🎉!</li>
+    <li>Now part of <a href="https://chjk.xyz">CHJK Studios</a>🎉!</li>
     <li>I do coding 💻</li>
     <li>I do speedrunning 💨</li>
     <li>I do youtube (occasionally) 📺</li>
