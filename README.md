@@ -16,7 +16,7 @@
     <li>Skript ⛏️</li>
     <li>HTML & CSS & JS 🌐</li>
     <li>Gurted HTML/CSS/Luau Syntax 🌐</li>
-    <li>Roblox's Luau version 🟦</li>
+    <li>Roblox's Luau 🟦</li>
     <li>learning C# 🟪</li>
   </ul>
   
