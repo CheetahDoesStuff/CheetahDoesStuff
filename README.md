@@ -5,9 +5,7 @@
   11 Public Repos<br>
   21 Total
 
-  OS: Arch Linux 
-  
-  WM: MangoWC with a custom rice
+  OS: Arch Linux with MangoWC and a custom rice
   <ul>
     <li>Now part of <a href="https://chjk.xyz">CHJK Studios</a>🎉!</li>
     <li>I do coding 💻</li>
