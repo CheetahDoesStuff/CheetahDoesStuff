@@ -5,6 +5,8 @@
   11 Public Repos<br>
   21 Total
 
+  1 merged PR in big repos (MangoWC: 1)
+
   OS: Arch Linux with MangoWC and a custom rice
   <ul>
     <li>Now part of <a href="https://chjk.xyz">CHJK Studios</a>🎉!</li>
