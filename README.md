@@ -9,19 +9,15 @@
 
   OS: Arch Linux with MangoWC and a custom rice
   <ul>
-    <li>Now part of <a href="https://chjk.xyz">CHJK Studios</a>🎉!</li>
-    <li>I do coding 💻</li>
-    <li>I do speedrunning 💨</li>
-    <li>I do youtube (occasionally) 📺</li>
+    <li>I do coding</li>
+    <li>I do speedrunning</li>
   </ul>
   I know
   <ul>
-    <li>Python 🐍</li>
-    <li>Skript ⛏️</li>
-    <li>HTML & CSS & JS 🌐</li>
-    <li>Gurted HTML/CSS/Luau Syntax 🌐</li>
-    <li>Roblox's Luau 🟦</li>
-    <li>learning C# 🟪</li>
+    <li>Rust</li>
+    <li>Python</li>
+    <li>Skript</li>
+    <li>HTML & CSS & JS</li>
   </ul>
   
   Wanna learn more about me or come in contact?
