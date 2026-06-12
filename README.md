@@ -25,7 +25,7 @@
 ![Tokio](https://img.shields.io/badge/tokio-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Serde](https://img.shields.io/badge/serde-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![SQLx](https://img.shields.io/badge/sqlx-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Reqwest](https://img.shields.io/badge/reqwest-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)  
+![Reqwest](https://img.shields.io/badge/reqwest-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![uv](https://img.shields.io/badge/uv-%23DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
