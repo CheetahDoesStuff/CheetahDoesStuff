@@ -1,4 +1,6 @@
 ![image](https://github.com/user-attachments/assets/088bc440-6cbe-4277-82cf-9881eb2bac9e)
+### Check out [my blog](http://ch0.dev/?utm_source=github&utm_medium=bio)!
+
 ## Who am i?
 **I am Cheetah, a teenager that loves coding and has been coding since i was 7 years old.**
 
