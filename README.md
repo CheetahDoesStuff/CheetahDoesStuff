@@ -23,6 +23,7 @@ I archive my projects when they are not actively maintained anymore. I dont want
 The main reason i archive a project is that i moved on or the codebase got out of hand (the second one applies almost exclusively to older and messier projects)
 
 ## Coding stats
-![Overall github stats](https://github-readme-stats.vercel.app/api?username=cheetahdoesstuff&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)  
+
 ![Coding time stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=24299&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=catppuccin_mocha)  
+_^^ Tracked since december 24th 2025 ^^_
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=cheetahdoesstuff&theme=radical&hide_border=false&theme=catppuccin_mocha)
