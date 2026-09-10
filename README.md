@@ -25,5 +25,5 @@ The main reason i archive a project is that i moved on or the codebase got out o
 ## Coding stats
 
 ![Coding time stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=24299&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=catppuccin_mocha)  
-_^^ Tracked since december 24th 2025 ^^_
+_^^ Tracked since december 24th 2025 ^^_  
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=cheetahdoesstuff&theme=radical&hide_border=false&theme=catppuccin_mocha)
